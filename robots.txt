@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tohbahpah.nikels.ch/sitemap.xml
